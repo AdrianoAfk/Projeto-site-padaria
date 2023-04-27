@@ -1,0 +1,37 @@
+@media (max-width: 768px) {
+
+    p{
+        font-size: 25px;
+    }
+
+    .imagem{
+        width: 7vw;
+        height: 7vh;
+        margin-top: 10%;
+    }
+
+    #container{
+        height: 100%;
+    }
+}
+
+@media (max-width: 425px) {
+
+    p{
+        font-size: 20px;
+    }
+
+    .titulo{
+        font-size: 25px;
+    }
+
+    .imagem{
+        width: 7vw;
+        height: 7vh;
+        margin-top: 10%;
+    }
+
+    #topo{
+        gap: 50px;
+    }
+}
